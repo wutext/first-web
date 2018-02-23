@@ -1,6 +1,6 @@
 public class OneFile() {
   
-  pblic static void main(Stirng[] arg) {
+  public static void main(String[] args) {
     system.out.println("hello git");
   }
 }
